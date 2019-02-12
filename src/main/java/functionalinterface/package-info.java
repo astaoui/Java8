@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author MedAsta
+ *
+ */
+package functionalinterface;
