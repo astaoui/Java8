@@ -11,6 +11,7 @@ import java8.predicate.SkillsEnum;
 public class LambdaTest {
 
 	public static void main(String[] args) {
+		
 		List<Collab> collabs = Arrays.asList(
 				new Collab("Ouss", 26, new HashSet<SkillsEnum>(Arrays.asList(SkillsEnum.TMJ, SkillsEnum.WS))),
 				new Collab("Moud", 25, new HashSet<SkillsEnum>(Arrays.asList(SkillsEnum.TMJ, SkillsEnum.MOM))),
